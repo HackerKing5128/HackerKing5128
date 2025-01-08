@@ -58,7 +58,7 @@ Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer explorin
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=HackerKing5128&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HackerKing5128&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=HackerKing5128&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerKing5128&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
@@ -72,5 +72,8 @@ Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer explorin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HackerKing5128&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/HackerKing5128/count.svg" alt="VisitCount">
+</p>
+
 
