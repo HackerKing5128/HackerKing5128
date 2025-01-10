@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/HackerKing5128/HackerKing5128/blob/main/github-header-image2.png)
 
-# 👑 Welcome to the Programming Kingdom of HackerKing5128! 👑  
+# 👑Welcome to the Programming Kingdom of HackerKing5128!👑  
 
 Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer exploring the diverse **realms of the programming world**. I specialize in **Java**, **Python**, and **C**, and I love turning ideas into code while aspiring to solve real-world problems through software.  
 
