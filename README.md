@@ -29,7 +29,8 @@ Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer explorin
 - MySQL  
 
 ### 🌟 Frameworks and Libraries
-- Django (currently learning)  
+- Django (currently learning)
+- FastAPI
 
 ### ⚙️ Tools and IDEs
 - VS Code  
@@ -73,7 +74,7 @@ Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer explorin
 
 ---
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HackerKing5128/count.svg" alt="VisitCount">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHackerKing5128%2F&s=35&c=00ff00&bg=00000000&no=4&ff=linebeam&tb=Profile+views+%3A+&ta=" alt="visits">
 </p>
 
 
