@@ -69,12 +69,21 @@ Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer explorin
 ---
 
 ### 💡 Motto:
-*"The journey of a thousand lines of code begins with a single semicolon!"*
+<div align="center">
+ 
+*"The journey of a thousand lines of code begins with a single semicolon!"* 
+
+</div>
 
 ### ✍️ Random Dev Quote
+<div align="center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+</div>
+
 ---
+
 <p align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FHackerKing5128%2F&s=35&c=00ff00&bg=00000000&no=4&ff=linebeam&tb=Profile+views+%3A+&ta=" alt="visits">
 </p>
