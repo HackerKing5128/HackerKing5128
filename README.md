@@ -1,5 +1,6 @@
 ![Welcome Banner](https://github.com/HackerKing5128/HackerKing5128/blob/main/github-header-image2.png)
 
+
 # 👑Welcome to the Programming Kingdom of HackerKing5128!👑  
 
 Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer exploring the diverse **realms of the programming world**. I specialize in **Java**, **Python**, and **C**, and I love turning ideas into code while aspiring to solve real-world problems through software.  
@@ -51,6 +52,7 @@ Hi, I'm **Nakul Saini** — a tech enthusiast and passionate programmer explorin
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nakul_10405) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-saini2408) 
+![An image of @hackerking5128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackerking5128)
 
 ---
 
